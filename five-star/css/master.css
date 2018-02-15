@@ -1,0 +1,18 @@
+.banner-content h1 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.5em;
+    margin-bottom: 20px;
+    color: purple;
+}
+
+.banner-area {
+  background: url(../img/ml_logo.png) no-repeat center center/cover;
+}
+.banner-area .overlay-bg {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-area {
+    background: url(../img/uni_cupcakes.jpg) no-repeat center center/cover;
+}
